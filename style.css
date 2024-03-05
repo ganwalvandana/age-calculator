@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+}
+
+p{
+    font-size: 6rem;
+    font-weight: bolder;
+}
+
+span{
+    color: purple;
+    letter-spacing: 1.5rem;
+}
